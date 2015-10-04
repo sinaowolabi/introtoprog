@@ -1,0 +1,28 @@
+body {
+    font-family: "Libre Baskerville";
+    background-color: #fff;
+}
+
+h1 {
+    color: midnightblue;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: navy ;
+}
+
+p {
+    font-weight: 100;
+    font-style: oblique;
+    line-height: normal;
+    font-size: 90%;
+}
+
+a, a:visited { 
+    color:  navy; text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
